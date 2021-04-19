@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Kn99HN/Kn99HN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello there 👋
+## Howdy 👋
 
 I am **Khanh Nguyen** (hardest last name to ever be pronounced Ikr):
 
