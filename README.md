@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello there 👋
+
+I am **Khanh Nguyen** (hardest last name to ever be pronounced Ikr):
+
+- 🎓 I'm a junior undergraduate student pursuing a bachelors degree in Computer Science at [New York University](https://www.nyu.edu/)
+- 🇻🇳 I'm from Vietnam and have been styding in the U.S since high school
+- ✨ I occasionally contribute to open source projects
+- 🧭 I have been to 20 states in the U.S. I'm looking to get back on it once I graduate
+- 💻 Slowly learning Go and Rust
+
+
