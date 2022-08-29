@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 I am **Khanh Nguyen** (hardest last name to ever be pronounced Ikr):
 
+- 💻 I'm currently a SWE at Google
 - 🎓 I'm a recent Computer Science graduate at [New York University](https://www.nyu.edu/)
 - 🇻🇳 I'm from Vietnam and have been studying in the U.S since high school
 - ✨ I occasionally contribute to open source projects
